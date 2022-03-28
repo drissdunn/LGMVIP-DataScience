@@ -9,7 +9,7 @@ This is a repository for maintaining all my tasks as a Data Science Intern at Le
 > 1. Image to Pencil Sketch using Python.
 > 2. Iris Flower Classification using Machine Learning.
 > 
-### 02 Intermediate Leve: Tasks:
+### 02 Intermediate Level Tasks:
 > 1. Exploratory Data Analysis on Dataset - Terrorism.
 > 2. Prediction using Decision Tree Algorithm (Iris Flowers).
 
